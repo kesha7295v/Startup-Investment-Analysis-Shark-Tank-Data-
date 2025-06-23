@@ -40,12 +40,6 @@ The main goal is to understand:
 - Shark preferences show bias toward scalable, health-oriented, or widely consumable ideas.
 
 # Tools Used
-
 - Power BI – for data visualization and dashboards
 
-## 📬 Contact
-
-For queries or suggestions, feel free to open an issue or contact the project maintainer.
-
----
 
